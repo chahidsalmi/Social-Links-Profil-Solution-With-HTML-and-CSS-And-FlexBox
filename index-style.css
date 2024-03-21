@@ -78,14 +78,14 @@ body .social-links-container .first-section h1{
     margin-bottom: 5px;
 }
 
-body .social-links-container .first-section h3{
+body .social-links-container .first-section h2{
     color: var(--primary-color);
     font-size: 14px;
     font-weight: 600;
     margin-bottom: 20px;
 }
 
-body .social-links-container .first-section h6{
+body .social-links-container .first-section h3{
     color: var(--white);
     font-size: 12px;
     font-weight: 400;
